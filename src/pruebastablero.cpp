@@ -1,0 +1,16 @@
+#include <iostream>
+#include "tablero.h"
+
+
+using namespace std;
+
+int mainp(){
+	cout<<"hola";
+	return EXIT_SUCCESS;
+}
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+#ifdef HAVE_CONFIG_H
+#include <config.h>
+#endif
+
+#include <iostream>
+#include <cstdlib>
+
+#include "tablero.h"
+
+
+typedef int matriz_pruebas[MAX][MAX];
+using namespace std;
+
+
+
+int main(int argc, char *argv[])
+{   
+
+}
